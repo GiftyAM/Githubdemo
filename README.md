@@ -1,1 +1,2 @@
 # README
+Gifty Aboagye-Mensah
